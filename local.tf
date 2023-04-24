@@ -1,0 +1,10 @@
+locals {
+
+  name            = ""
+  region          = """
+
+
+
+
+
+}
